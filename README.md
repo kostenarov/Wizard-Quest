@@ -1,3 +1,3 @@
-# OLGameSemester2
+# Wizard Quest
 
 Developed with Unreal Engine 5
